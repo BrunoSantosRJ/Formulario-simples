@@ -1,2 +1,2 @@
 # Formulario-simples
-Formulário simples, com código desenvolvido apenas com html e css
+simple form developed only with html and css.
