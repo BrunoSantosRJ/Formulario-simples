@@ -1,0 +1,18 @@
+form,
+h1 {
+  text-align: center;
+}
+
+textarea {
+  width: 80%;
+}
+
+h1 {
+  background-color: #778899;
+}
+
+#container {
+  background-color: #90ee90;
+  border: solid #778899 4px;
+  margin: 5% 35%;
+}
